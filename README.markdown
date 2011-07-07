@@ -1,1 +1,1 @@
-# ROR tutorial : first app
+# ROR tutorial: first app
